@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="600"/>
+</p>
+
+<p align="center">
   <img src="https://c.top4top.io/p_3560n0o481.jpg" alt="CODE WITH MASA Banner" width="800"/>
 </p>
 
