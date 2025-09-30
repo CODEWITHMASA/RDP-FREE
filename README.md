@@ -10,9 +10,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Website-codewithmasa.giize.com-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/CODEWITHMASA?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/CODEWITHMASA?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/CODEWITHMASA?style=for-the-badge" />
 </p>
 
 ---
