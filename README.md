@@ -8,9 +8,7 @@
    <i>Let's Code the Future Together</i>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Website-codewithmasa.giize.com-blue?style=for-the-badge" />
-</p>
+
 
 ---
 
