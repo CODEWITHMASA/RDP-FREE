@@ -20,7 +20,7 @@
 - 📸 [Instagram](https://www.instagram.com/codewithmasa)  
 - 🎵 [TikTok](https://www.tiktok.com/@CODEWITHMASA)  
 - 🐦 [X (Twitter)](https://x.com/CODEWITHMASA)  
-- 💬 [Telegram (Active Chat)](https://t.me/+_R91sWmKBacyZTc0)  
+- 💬 [Telegram Active Tools](https://t.me/+_R91sWmKBacyZTc0)  
 - 📢 [Telegram (Page)](https://t.me/CODEWITHMASA)  
 - 👥 [Telegram (Group)](https://t.me/GROUPCODEWITHMASA)  
 - 📩 [Telegram (Contact)](https://t.me/MrMasaOfficial)  
