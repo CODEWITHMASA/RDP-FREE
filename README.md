@@ -44,3 +44,5 @@ git clone https://github.com/CODEWITHMASA/RDP-FREE.git
 cd RDP-FREE
 chmod +x rdp.sh
 bash rdp.sh
+Port : 6070
+
