@@ -1,13 +1,18 @@
-<h1 align="center">🚀 CODE WITH MASA</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Website-codewithmasa.giize.com-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/CODEWITHMASA/RDP-FREE?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/CODEWITHMASA/RDP-FREE?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/CODEWITHMASA/RDP-FREE?style=for-the-badge" />
+  <img src="https://c.top4top.io/p_3560n0o481.jpg" alt="CODE WITH MASA Banner" width="800"/>
+</p>
+
+<h1 align="center">🚀 CODE WITH MASA 🚀</h1>
+<p align="center">
+   <b>Programming • Tools • Solutions</b><br>
+   <i>Let's Code the Future Together</i>
 </p>
 
 <p align="center">
-  <b>CODE WITH MASA</b> — Practical tutorials, tools, and solutions for developers.
+  <img src="https://img.shields.io/badge/Website-codewithmasa.giize.com-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/CODEWITHMASA?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/CODEWITHMASA?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/CODEWITHMASA?style=for-the-badge" />
 </p>
 
 ---
@@ -27,17 +32,18 @@
 
 ---
 
-## ⚡ RDP Quickstart
-
-<details>
-<summary>Click to expand 🚀</summary>
+## ⚡ HOW TO GET FREE RDP
 
 ### Prerequisites
-- Google Cloud account with VM creation enabled.
-- `git` & `bash` installed.
-- Basic CLI knowledge.
+- Google Cloud account with VM creation enabled.  
+- `git` & `bash` installed.  
+- Basic CLI knowledge.  
 
 ### Installation
+Open Google Cloud Console: [console.cloud.google.com](https://console.cloud.google.com/)  
+
+Then run:
+
 ```bash
 git clone https://github.com/CODEWITHMASA/RDP-FREE.git
 cd RDP-FREE
