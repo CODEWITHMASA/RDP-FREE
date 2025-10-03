@@ -1,84 +1,79 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="600"/>
-</p>
+<h1 align="center">Hey 👋 What's Up? I'm MASA</h1>
 
-<p align="center">
-  <img src="https://c.top4top.io/p_3560n0o481.jpg" alt="CODE WITH MASA Banner" width="800"/>
-</p>
+###
 
-<h1 align="center">🚀 CODE WITH MASA 🚀</h1>
-<p align="center">
-  <strong>Reverse Engineering • Programming • Tools • Solutions</strong><br>
-  <em>Let's code the future together</em>
-</p>
+<div align="center">
+  <img src="https://c.top4top.io/p_3560n0o481.jpg" height="200" alt="CODE WITH MASA Banner" />
+</div>
+
+###
+
+<h2 align="center">💻 Reverse Engineer | Python & C# Expert | Code Enthusiast</h2>
 
 ---
 
-<p align="center">
-  <a href="https://www.youtube.com/@CODEWITHMASA">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+### 🧰 Tech & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,cs,cpp,c,java,php,js,html,css,go,perl,vb,sql,assembly" height="45"/>
+</div>
+
+---
+
+### 🌍 Connect With Me
+<div align="center">
+  <a href="https://www.facebook.com/CODEWITHMASA">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://github.com/CODEWITHMASA">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.instagram.com/codewithmasa">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/CODEWITHMASA">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@CODEWITHMASA">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://t.me/CODEWITHMASA">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://github.com/CODEWITHMASA">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.codewithmasa.giize.com">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-</p>
+</div>
 
 ---
 
-## 🌐 Official Links
-- 🌍 [Website](https://www.codewithmasa.giize.com)  
-- 🐙 [GitHub](https://github.com/CODEWITHMASA)  
-- ▶️ [YouTube](https://www.youtube.com/@CODEWITHMASA)  
-- 📘 [Facebook](https://www.facebook.com/CODEWITHMASA)  
-- 📸 [Instagram](https://www.instagram.com/codewithmasa)  
-- 🎵 [TikTok](https://www.tiktok.com/@CODEWITHMASA)  
-- 🐦 [X (Twitter)](https://x.com/CODEWITHMASA)  
-- 💬 [Telegram Active Tools](https://t.me/+_R91sWmKBacyZTc0)  
-- 📢 [Telegram Page](https://t.me/CODEWITHMASA)  
-- 👥 [Telegram Group](https://t.me/GROUPCODEWITHMASA)  
-- 📩 [Telegram Contact](https://t.me/MrMasaOfficial)  
+
+
+
+### 📌 About Me
+
+- 🎯 Specializes in **Reverse Engineering & Security Research**  
+- 🐍 Strong in **Python, C#, Assembly**  
+- 🔧 Skilled with **C, C++, Java, PHP, JavaScript, Go, Perl, VB, SQL, HTML, CSS**  
+- 🚀 Services: **REVERSE ENGINEERING - METHODS - DATA FRESH - FULL ACTIVATED PROGRAMS - COURSES - MARKETING TOOL**  
+- 📺 My channel: [CODE WITH MASA](https://www.youtube.com/@CODEWITHMASA)  
+- 📫 Contact me via [Telegram](https://t.me/MrMasaOfficial)  
 
 ---
 
-## 👨‍💻 About Me
-Hi, I’m **MASA** — a passionate **reverse engineer** and **developer**.  
-I specialize in **reverse engineering, automation, and tool development**, while sharing my knowledge with the community through tutorials and projects.  
 
-**Main Skills:**
-- Reverse Engineering (Assembly, Debugging, Binary Analysis)  
-- Python & C# (tooling, automation, scripts)  
-- C, C++, Java, JavaScript, PHP, SQL, Go, Perl, Visual Basic  
-- Web (HTML, CSS)  
-- Building tools, methods, and marketing solutions  
+### 🖥️ Features
+
+- **Web-based Access**: Run Ubuntu Desktop (LXDE) directly inside your browser via VNC — no extra software needed.  
+- **One-line Setup**: Just use  
 
 ---
 
-## 🧰 What I Provide
-- 🔍 Reverse Engineering Guides & Methods  
-- ⚙️ Automation Tools & Fresh Data  
-- 🔑 Full Activated Programs & Solutions *(for educational use)*  
-- 🎓 Courses & Tutorials  
-- 📢 Marketing Tools  
+### 🚀 Installation Them
 
----
-
-## ⚡ Featured Project: Free RDP
-Easily create a temporary RDP session using Google Cloud.  
-
-### Installation
-Open Google Cloud Console: [console.cloud.google.com](https://console.cloud.google.com/)  
-
-Run the following commands:
 
 ```bash
-git clone https://github.com/CODEWITHMASA/RDP-FREE.git
-cd RDP-FREE
-chmod +x rdp.sh
-bash rdp.sh
-# Port : 6070
+git clone https://github.com/CODEWITHMASA/RDP-FREE && cd RDP-FREE && chmod +x rdp.sh && bash rdp.sh
+```
+```bash
+PORT : 6070
+```
