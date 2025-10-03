@@ -77,3 +77,4 @@ git clone https://github.com/CODEWITHMASA/RDP-FREE && cd RDP-FREE && chmod +x rd
 ```bash
 PORT : 6070
 ```
+- Install Exe + Them Windows 11 : [Click](https://github.com/CODEWITHMASA/them-windows-to-linux)  
