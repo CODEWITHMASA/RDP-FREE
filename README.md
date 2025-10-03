@@ -60,6 +60,35 @@
 
 ---
 
+## ⚙️ System Specifications (English)
+
+A concise, professional snapshot of the environment:
+
+**Operating System**
+- **Distribution:** Ubuntu 20.04.6 LTS  
+- **Release:** 20.04 (Focal Fossa)  
+- **Kernel:** Linux 6.6.105+ (x86_64 GNU/Linux)  
+- **Installed packages:** 633
+
+**CPU**
+- **Model:** Intel(R) Xeon(R) CPU @ 2.20GHz  
+- **Cores / Threads:** 1 Core / 2 Threads  
+- **Architecture:** x86_64  
+- **Virtualization:** KVM  
+- **L3 Cache:** 55 MB
+
+**Memory (RAM)**
+- **Total:** 7.8 GiB  
+- **Available:** ~6.9 GiB  
+- **Swap:** Disabled
+
+**Storage**
+- **Disk 1 (sda):** 100 GB  
+- **Disk 2 (sdb):** 5 GB  
+- **Used / Available (root fs):** 55 GB used / 95 GB total (≈58% used)  
+- **Filesystem summary:** 201 GB total / 109 GB used / 92 GB free
+
+---
 
 ### 🖥️ Features
 
@@ -68,7 +97,7 @@
 
 ---
 
-### 🚀 Installation Them
+### 🚀 Installation Rdp
 
 
 ```bash
@@ -77,4 +106,4 @@ git clone https://github.com/CODEWITHMASA/RDP-FREE && cd RDP-FREE && chmod +x rd
 ```bash
 PORT : 6070
 ```
-- Install Exe + Them Windows 11 : [Click](https://github.com/CODEWITHMASA/them-windows-to-linux)  
+- Install Exe + Them Windows 11 [Click](https://github.com/CODEWITHMASA/them-windows-to-linux) 
