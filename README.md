@@ -101,7 +101,7 @@ A concise, professional snapshot of the environment:
 
 
 ```bash
-git clone https://github.com/CODEWITHMASA/RDP-FREE && cd RDP-FREE && chmod +x rdp.sh && bash rdp.sh
+sudo apt update - y && sudo apt upgrade -y && sudo apt install git -y && git clone https://github.com/CODEWITHMASA/RDP-FREE && cd RDP-FREE && chmod +x rdp.sh && bash rdp.sh
 ```
 ```bash
 PORT : 6070
